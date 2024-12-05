@@ -27,6 +27,8 @@ For any questions or additional information, feel free to reach out via [email](
 
 ---
 
-![Practice Makes Perfect](https://img.shields.io/badge/practice-makes%20perfect-brightgreen.svg)
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+## It is under the development process so please wait until I complete it.
+
+# ![Practice Makes Man Perfect](https://img.shields.io/badge/practice-makes%20perfect-brightgreen.svg)
+
 
