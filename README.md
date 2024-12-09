@@ -27,7 +27,7 @@ For any questions or additional information, feel free to reach out via [email](
 
 ---
 
-## It is under the development process so please wait until I complete it.
+## AS THIS PROJECT IS FINISHED. PLEASE VISIT THE SWITCH-CASE STATEMENT REPOSITORY TO CONTINUE YOUR LEARNING PROCESS AND ENHANCE YOUR KNOWLEDGE.
 
 # ![Practice Makes Man Perfect](https://img.shields.io/badge/practice-makes%20perfect-brightgreen.svg)
 
